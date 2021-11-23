@@ -13,7 +13,7 @@ In Germany, we have 16 different states, Collabsummit takes place in Duesseldorf
 In case your country is on that list, please be aware, its important that you determine if your country is a either high risk area or an area of variant of concern, as differnt rules apply. If 
 
 - your country is "only" a high risk area,
-- you are fully vaxxinated OR recovered
+- you are fully vaccinated OR recovered
 
 I highlighted a very important part of  here: [Risk area information by RKI](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Transport/Archiv_Risikogebiete/Risikogebiete_aktuell_en.pdf?__blob=publicationFile)
 
@@ -35,7 +35,7 @@ If `3G`, `2G` or `2Gplus`/`2G+` applies, depends on the 7-Day-hospitalization ra
 - in english as apage here: [Covid19 Situation Report](https://www.rki.de/EN/Content/infections/epidemiology/outbreaks/COVID-19/Situationsberichte_Tab.html)
 - in german as a dashboard here: [Covid19 Trends](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/COVID-19-Trends/COVID-19-Trends.html?__blob=publicationFile#/home)
 
-As I know that it a little bit hard to read if you don't speak german, I highlighted how you find the important value: 
+As I know that it is a little bit hard to read if you don't speak german, I highlighted how you find the important value: 
 
 <img width="774" alt="rki-dashboard" src="https://user-images.githubusercontent.com/49960482/142871886-7d0f6163-b0e4-4508-a13a-7beb7f9137c0.png">
 
@@ -47,12 +47,10 @@ If this value is
 - above 6, but below 9 means that `2Gplus`/`2G+` applies, which means, that in addition to bei either fully vaccinated or recovered you need to present a negative test. 
 - above 9 means, that North Rhine Westphalia can take further measures like canceling big events or lockdowns
 
-If the event took place today with that rate of 3,92, then the value is above 3, but below 6, which means `2G` would apply. (Please note, that the value can change and will be published daily. This is just an example. 
-
 ## Some personal note 💖
 
 I hope that everyone stays safe and I hope to see you very soon!
 
 ## Disclaimer
 
-Yes again, I am not an official source, I just want to help you gather the correct information. If you spot a mistake, you can of course PR this file or [reach out to me via twitter](https://twitter.com/LuiseFreese)
+Yet again, I am not an official source, I just want to help you gather the correct information. If you spot a mistake, you can of course PR this file or [reach out to me via twitter](https://twitter.com/LuiseFreese)
